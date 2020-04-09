@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1586402930,
+	"version": 1586438548,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -10,6 +10,9 @@
 		"images/sprite3-sheet0.png",
 		"images/sprite4-sheet0.png",
 		"images/sprite5-sheet0.png",
+		"images/sprite6-sheet0.png",
+		"images/particles.png",
+		"images/sprite9-sheet0.png",
 		"media/m4a1_single-kibblesbob-8540445.ogg",
 		"media/rga-gt - being cool doesn`t make me fool.ogg",
 		"icon-16.png",
